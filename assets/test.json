@@ -1,0 +1,12 @@
+{
+    "RespCode": 0,
+    "RespText": "Đăng nhập thành công!",
+    "Token": "0c1f1b71-5e7a-45ca-bc45-6fd7fbde48e2",
+    "UserInfo": {
+        "FullName": "IT test",
+        "Phone": "0123456789",
+        "Center": "Trung tâm 04",
+        "EmployeeType": "Nhân viên IT",
+        "EmployeeCode": ""
+    }
+}
